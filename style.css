@@ -169,4 +169,5 @@ body {
 .botao-assinatura:hover{
     color: var(--cor-fundo);
     background-color: var(--cor-botao-efeito);
+    border: 2px solid var(--cor-botao-efeito);
 }
