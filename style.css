@@ -143,13 +143,13 @@ body {
     display: flex;
     list-style-type: none;
     justify-content: center;
-    margin: 2em 3em;
+    margin: 2.5em 2em;
     
 }
 
 .rodape-link a{
     text-decoration: none;
-    
+    margin-left: 3em;
     color: var(--cor-primaria);
     font-size: 14px;
 }
@@ -157,8 +157,8 @@ body {
 .rodape-texto{
     color: var(--cor-secundaria);
     font-size: 12px;
-    margin: 3em; 
-   
+    margin: 2em; 
+
 }
 
 .rodape-link a:hover{
